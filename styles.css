@@ -154,13 +154,13 @@ header div {
   margin-top: 10%;
 }
 
-.pixel-quote li {
-  display: inline-block;
-  margin-right: 10px;
+.pixel-quote ul {
+  padding-left: 0;
 }
 
-.pixel-quote li:nth-child(even) {
-  margin-bottom: auto;
+.pixel-quote ul li {
+  display: inline-block;
+  margin-right: 10px;
 }
 
 ul.skills {
